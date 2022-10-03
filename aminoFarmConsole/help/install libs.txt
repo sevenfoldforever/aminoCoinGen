@@ -1,0 +1,4 @@
+requests
+aiohttp
+json-minify
+colored
