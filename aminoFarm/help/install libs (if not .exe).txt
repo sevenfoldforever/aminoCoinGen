@@ -1,6 +1,0 @@
-requests
-gtts
-playsound
-pyTelegramBotAPI
-aionttp
-json-minify
